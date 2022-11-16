@@ -1,16 +1,12 @@
-### Hi there 👋
+## 📖 About Me
+ Hi! i'm Andrew 
+ i'm a Junior Developer, i Learn / Do stuff in Golang, Java, Kotlin, Python.
 
-<!--
-**shadow1337tm/shadow1337tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☎️ Contact
+ - Discord : andrew.#7729
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistics 📊
+<p>
+    <img alt="Github Stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=shadow1337tm&show_icons=true&theme=radical"/>
+    <img alt="Github Language Stats" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow1337tm&layout=compact&theme=radical"/>
+</p>
